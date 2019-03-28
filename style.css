@@ -1,0 +1,19 @@
+html{
+  color: #fff;
+  background-image: url("https://bit.ly/2Osdaoq");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+
+
+
+
+.output {
+  border-style: solid;
+  border-width: 2px;
+  border-color: blue;
+  padding: 50px;
+}
